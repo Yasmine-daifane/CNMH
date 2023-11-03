@@ -47,4 +47,47 @@ Use `**` for bold and `*` for italic. Wrap the text you want to emphasize with t
 1. Ordered Item 1
 2. Ordered Item 2
 ```
+Use `-` for unordered (bullet) lists and `1.` for ordered lists.
 
+4. Links (`[]` `()`):
+```
+[Link Text](https://www.example.com)
+```
+5. Images (`![]` `()`):
+```
+![Alt Text](image-url)
+```
+6. Code Blocks (`,` ` language`):
+```
+Use three backticks (```) for code blocks. Optionally, specify the programming language after the opening three backticks for syntax highlighting.
+
+```
+7. Tables (`|`):
+```
+| Header 1 | Header 2 |
+|----------|----------|
+| Row 1    | Row 1    |
+| Row 2    | Row 2    |
+```
+
+8. Quotes (`>`):
+```
+> your quote here.
+```
+9. Task Lists (`-` `[ ]`, `-` `[x]`):
+```
+- [x] chance 1
+- [ ] chance 2
+```
+
+10. Horizontal Line (`---`):
+
+ ```
+ ---
+ ```
+
+Remember, a well-organized and well-formatted README.md not only helps users understand your project better but also encourages collaboration and contributions. Use these commands wisely to create an informative and visually appealing README.md file for your projects.
+
+# Author:
+
+[Yasmine Daifane - Github Profile](https://github.com/Yasmine-daifane)
