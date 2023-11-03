@@ -19,15 +19,32 @@ Feel free to explore the resources and exercises in this repository to enhance y
 9. Formatting: Use formatting (like bold, italics, lists) for readability.
 10. Grammar and Spelling: Proofread your content to ensure there are no errors.
 
-## Markdown Styling Commands:
+### Markdown Styling Commands:
 
 1. Headers (`#`, `##`, `###`):
-# first headear
-## second 
-### theard 
+# Header 1
+## Header 2
+### Header 3
 
 
 **Headers are used to create section titles. Use `#` for the main title, `##` for subsections, and so on.**
 
 2. Emphasis (Bold `**`, Italic `*`):
+
+```
+**Bold Text**
+*Italic Text*
+
+```
+
+Use `**` for bold and `*` for italic. Wrap the text you want to emphasize with these symbols.
+
+3. Lists (`-`, `1.`):
+```
+- Item 1
+- Item 2
+  - Subitem 2.1
+1. Ordered Item 1
+2. Ordered Item 2
+```
 
