@@ -88,6 +88,6 @@ Use three backticks (```) for code blocks. Optionally, specify the programming l
 
 Remember, a well-organized and well-formatted README.md not only helps users understand your project better but also encourages collaboration and contributions. Use these commands wisely to create an informative and visually appealing README.md file for your projects.
 
-# Author:
+#### Author:
 
 [Yasmine Daifane - Github Profile](https://github.com/Yasmine-daifane)
