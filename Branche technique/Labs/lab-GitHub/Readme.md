@@ -1,5 +1,15 @@
 # lab-github <br>
-## Tasks that need to be completed in this lab :  Working with branches in GitHub and resolving conflicts
+
+In this lab, we need to complete the following tasks:
+
+## Tasks
+
+1. **Working with Branches in GitHub:** We will explore how to create, manage, and work with branches in GitHub. Branches allow us to work on different features or fixes concurrently without affecting the main codebase. We'll learn how to create branches, switch between them, and merge changes back to the main branch.
+
+2. **Resolving Conflicts:** Conflict resolution is a common challenge when collaborating on code. We will practice resolving conflicts that may occur when merging branches. This involves identifying conflicting changes and deciding which version of the code to keep.
+
+By completing these tasks, we aim to improve our understanding of version control, branch management, and conflict resolution in GitHub.
+
 
 **Steps to make conflict** <br>
 
