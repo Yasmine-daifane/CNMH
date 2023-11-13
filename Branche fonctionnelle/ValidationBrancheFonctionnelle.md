@@ -35,11 +35,11 @@
 
 [CHARTE GRAPHIQUE](https://docs.google.com/presentation/d/1qswfCQZnnRUBFtcWxA5fvZ9cGpBgOcwIEI1JMI_kRPw/edit?usp=sharing)
 
-[pallette ](https://color.adobe.com/fr/create/color-accessibility)</br>
+[pallette ](https://color.adobe.com/fr/mythemes?viewTheme)</br>
 
-[color copied](https://color.adobe.com/fr/mythemes?viewTheme) .
+[color copied](https://color.adobe.com/fr/mythemes?viewTheme) 
 
-[theme de presentation](https://docs.google.com/presentation/d/1rZ9eclarNK-WDrU-a_cRzyCJLACa8bbHmMil_qX5i7M/edit#slide=id.g299187f9b3a_0_0).
+[theme de presentation](https://docs.google.com/presentation/d/1rZ9eclarNK-WDrU-a_cRzyCJLACa8bbHmMil_qX5i7M/edit#slide=id.g299187f9b3a_0_0)
 
 [Project Logo](https://docs.google.com/document/d/1L55gW9KgQSvhN3a3JAPhPWSqjb5KsWGDyWvwcXDMrhQ/edit)
 
