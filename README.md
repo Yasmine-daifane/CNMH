@@ -4,3 +4,6 @@
 [Rapport branch Technique](https://docs.google.com/document/d/1PmwBmz1MMWuG4udm2-E9DZZDb5Ed-S6k0Tz-EpK0B2E/edit?usp=sharing)</br>
 [Rapport branch Conception-Realisation](https://docs.google.com/document/d/1hfqNOV81jhiQgnV9XCiAdwns-n27aWWlx2ntr-YKq7Q/edit?usp=sharing)</br>
 [link presentation CNMH](https://docs.google.com/presentation/d/1eqTbGiaLyyOMJetziejtZnW59hEXqczhZSS6x_CBnv4/edit?usp=sharing)
+
+## Sprint Review :
+[Sprint review slide](https://docs.google.com/presentation/d/1oe7a8yDS4UW8-fwaVP9NPGtwJMzcrPrZvGR4sRp1gC4/edit#slide=id.p)
