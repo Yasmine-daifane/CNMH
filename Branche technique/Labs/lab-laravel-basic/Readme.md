@@ -5,3 +5,4 @@
 - CRUD Operations for Tasks
 - Pagination
 - Search (AJAX) 
+- data base : have 2 tables task and project (seeders)
