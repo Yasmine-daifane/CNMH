@@ -1,5 +1,6 @@
 # lab laravel standard 
-## This repository presents a standard Laravel project for  task management. It should  includes the following features:
+## This repository presents a standard Laravel project for  task management. 
+### The Work that  should  includes the following features:
 
 - CRUD Operations for Tasks
 - Pagination
