@@ -1,4 +1,4 @@
-[Author]: # (yasmine daifane:)
+[Author]: # (yasmine daifane)
 
 # Lab Markdown 
 
