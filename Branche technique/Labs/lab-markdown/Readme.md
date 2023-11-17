@@ -3,7 +3,7 @@
 ## Travail a fair : Livre de Recettes en Markdown
 
 ### Objectif :
-Le but de ce travail est de créer un livre de recettes en utilisant la syntaxe Markdown. Vous devrez inclure des recettes détaillées pour vos plats préférés fournir des instructions claires la liste des ingrédients, et éventuellement, des images pour illustrer chaque étape.
+Le but de ce travail est de créer un livre de recettes en utilisant la syntaxe Markdown. Vous devrez inclure des recettes détaillées pour vos plats préférés fournir des instructions claires la liste des ingrédients, et éventuellement, des images pour illustrer chaque recette.
 
 
 ### Instructions :
@@ -21,7 +21,7 @@ Utilisez des listes  pour énumérer les instructions et les ingrédients.
 Utilisez des sous-listes si nécessaire.
 Ajout d'Images :
 
-Si possible, incluez des images pour chaque étape de la recette.
+Si possible, incluez des images pour chaque  recette.
 Utilisez la syntaxe Markdown pour insérer des images 
 
 
