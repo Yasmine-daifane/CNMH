@@ -1,5 +1,5 @@
 # charte graphique 
-- Logos
+
 - cnmh logo
 <img src ="cnmhlogojpg.jpg">
 - ofppt logo
