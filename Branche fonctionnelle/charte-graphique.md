@@ -1,15 +1,17 @@
 # charte graphique 
 - Logos
-
+  -   cnmh logo
 <img src ="cnmhlogojpg.jpg">
+- ofppt logo
  <img src ="ofppt.png">
+  -solicode logo 
  <img src ="solicodelogo.png">
 
  
 
   
 ### Palette du coleurs 
-- Mode colorimétrique :
+
     - CBE8F4
     -  DFF2F8
     -   EBEB94
