@@ -2,7 +2,7 @@
 
 - cnmh logo
 <img src ="cnmhlogojpg.jpg">
-- cnmh logo
+  - cnmh logo
  <img src ="ofppt.png">
 - cnmh logo
  <img src ="solicodelogo.png">
