@@ -1,10 +1,10 @@
 # charte graphique 
 - Logos
-  -   cnmh logo
+- cnmh logo
 <img src ="cnmhlogojpg.jpg">
-  -   ofppt logo
+- ofppt logo
  <img src ="ofppt.png">
-  -   solicode logo
+  - solicode logo
  <img src ="solicodelogo.png">
 
  
