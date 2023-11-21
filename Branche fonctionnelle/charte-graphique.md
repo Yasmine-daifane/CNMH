@@ -1,11 +1,23 @@
 # charte graphique 
-
- <img src ="solicodelogo.png">
 <img src ="cnmhlogojpg.jpg">
  <img src ="ofppt.png">
+ <img src ="solicodelogo.png">
+
+ 
+
   
 ### Palette du coleurs 
-<img src ="palette.png">
+- Mode colorimétrique :
+    - CBE8F4
+    -  DFF2F8
+    -   EBEB94
+    -   537E90
+    -   326279
+
+
+  <img src ="palette.png">
+  
+
 
  #### Font :
 [ROBOTO](https://fonts.google.com/specimen/Roboto)
