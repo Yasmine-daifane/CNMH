@@ -1,4 +1,6 @@
 # charte graphique 
+- Logos
+
 <img src ="cnmhlogojpg.jpg">
  <img src ="ofppt.png">
  <img src ="solicodelogo.png">
