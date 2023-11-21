@@ -4,8 +4,10 @@
 <img src ="cnmhlogojpg.jpg">
  <img src ="ofppt.png">
   
+### Palette du coleurs 
+<img src ="palette.png">
 
- ### Font :
+ #### Font :
 [ROBOTO](https://fonts.google.com/specimen/Roboto)
 
 
