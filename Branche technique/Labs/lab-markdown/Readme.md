@@ -15,7 +15,7 @@ Utilisez des en-têtes  pour chaque section de recette.
 
 Inclure les Recettes :
 
-Choisissez au moins trois de vos plats préférés.
+Choisissez au moins 1 de vos plats préférés maximum 3 .
 Pour chaque plat, ajoutez une section avec le nom de la recette.
 
 Instructions et Ingrédients :
@@ -23,7 +23,7 @@ Instructions et Ingrédients :
 Utilisez des listes  pour énumérer les instructions et les ingrédients.
 Utilisez des sous-listes si nécessaire.
 
-Ajout d'Images :
+Ajouter d'Images :
 
 Si possible, incluez des images pour chaque  recette.
 Utilisez la syntaxe Markdown pour insérer des images 
