@@ -1,7 +1,7 @@
 # charte graphique 
 La charte graphique, dont la dénomination correcte est cahier des normes graphiques, est un document de travail qui contient l'ensemble des règles fondamentales d'utilisation des signes graphiques qui constituent l'identité graphique d'une organisation, d'un projet.
 
-### logos 
+## logos 
 
 CNMH : </br>
 <img src ="cnmhlogojpg.jpg"></br>
@@ -14,12 +14,13 @@ Solicode : </br>
 
   
 ### Palette du coleurs 
+Règle : Monochrome de couleur #C4E5F2 
+- #97B4BF
+- #537C8C
+- #C4E5F2
+- #234A59
+- #0A2733 	
 
-    - CBE8F4
-    -  DFF2F8
-    -   EBEB94
-    -   537E90
-    -   326279
 
 
   <img src ="palette.png">
