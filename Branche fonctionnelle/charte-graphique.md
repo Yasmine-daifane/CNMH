@@ -3,11 +3,11 @@ La charte graphique, dont la dénomination correcte est cahier des normes graphi
 
 ### logos 
 CNMH : 
-<img src ="cnmhlogojpg.jpg">
+<img src ="cnmhlogojpg.jpg"></br>
 OFPPT :
- <img src ="ofppt.png">
+ <img src ="ofppt.png"></br>
 Solicode : 
- <img src ="solicodelogo.png">
+ <img src ="solicodelogo.png"></br>
 
  
 
