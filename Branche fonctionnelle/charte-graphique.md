@@ -27,8 +27,10 @@ Règle : Monochrome de couleur #C4E5F2
   
 
 
- #### Font :
-[ROBOTO](https://fonts.google.com/specimen/Roboto)
+ #### Fontes :
+Arial ( pour les textes ) : Mercury is the closest planet to the Sun and the smallest one in the Solar System—it’s only a bit larger than our Moon.
+
+STAATLICHES ( pour les titres ) Mercury is the closest planet to the Sun and the smallest one in the Solar System—it’s only a bit larger than our Moon.
 
 
 
@@ -39,3 +41,6 @@ Règle : Monochrome de couleur #C4E5F2
 
   [adobe](https://color.adobe.com/fr/boom-color-theme-9a19b0ba-edea-435a-8b8c-62316972504c/ )</br>
   [colors](https://coolors.co/)
+   [ftal desing]()
+   [SLIDESGO](https://slidesgo.com/)
+   
