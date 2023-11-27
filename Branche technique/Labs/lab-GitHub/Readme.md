@@ -134,4 +134,5 @@ Now, the changes from the bracnh-1 and branch-2 branches are merged into the mai
 
 ### References 
 [Branches](https://docs.github.com/fr/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches) </br>
-[Resolving a Merge Conflict on GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
+[Resolving a Merge Conflict on GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line) </br>
+[Merge](https://git-scm.com/docs/git-merge#_how_conflicts_are_presented)
