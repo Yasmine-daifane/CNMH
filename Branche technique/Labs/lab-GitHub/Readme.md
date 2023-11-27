@@ -133,5 +133,5 @@ git push origin main
 Now, the changes from the bracnh-1 and branch-2 branches are merged into the main branch. Make sure to thoroughly test the merged code to ensure everything is working as expected before pushing to production if applicable.
 
 ### References 
-[Branches](https://docs.github.com/fr/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)
+[Branches](https://docs.github.com/fr/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches) </br>
 [Resolving a Merge Conflict on GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
