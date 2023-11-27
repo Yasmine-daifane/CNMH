@@ -1,3 +1,3 @@
 # lab Presentation 
 ## Travail à faire
-Comment Rediger une presentation professionnell
+Comment Rediger une presentation professionnel
