@@ -2,7 +2,7 @@
 
 # Lab Markdown 
 
-## Travail a fair 
+## Travail à faire
 Le but de ce travail est de créer un livre de recettes en utilisant la syntaxe Markdown. Vous devrez inclure des recettes détaillées pour vos plats préférés fournir des instructions claires la liste des ingrédients, et éventuellement, des images pour illustrer chaque recette.
 
 ##  Extension
