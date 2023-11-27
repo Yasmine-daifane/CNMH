@@ -1,6 +1,5 @@
 # lab-github <br>
 
-
 ## Work to be done 
 
 1. **Working with Branches in GitHub:** We will explore how to create, manage, and work with branches in GitHub. Branches allow us to work on different features or fixes concurrently without affecting the main codebase. We'll learn how to create branches, switch between them, and merge changes back to the main branch.
