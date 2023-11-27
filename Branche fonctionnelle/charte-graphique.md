@@ -2,11 +2,12 @@
 La charte graphique, dont la dénomination correcte est cahier des normes graphiques, est un document de travail qui contient l'ensemble des règles fondamentales d'utilisation des signes graphiques qui constituent l'identité graphique d'une organisation, d'un projet.
 
 ### logos 
-CNMH : 
+
+CNMH : </br>
 <img src ="cnmhlogojpg.jpg"></br>
-OFPPT :
+OFPPT :</br>
  <img src ="ofppt.png"></br>
-Solicode : 
+Solicode : </br>
  <img src ="solicodelogo.png"></br>
 
  
