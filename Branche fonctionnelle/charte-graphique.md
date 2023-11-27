@@ -21,8 +21,6 @@ Règle : Monochrome de couleur #C4E5F2
 - #234A59
 - #0A2733 	
 
-
-
   <img src ="palette.png">
   
 
@@ -38,9 +36,9 @@ STAATLICHES ( pour les titres ) Mercury is the closest planet to the Sun and the
 
  ### NB Le fond de la présentation doit rester blanc en raison du diagramme UML
 
-
+#### References 
   [adobe](https://color.adobe.com/fr/boom-color-theme-9a19b0ba-edea-435a-8b8c-62316972504c/ )</br>
-  [colors](https://coolors.co/)
-   [ftal desing]()
-   [SLIDESGO](https://slidesgo.com/)
+  [colors](https://coolors.co/)</br>
+  [ftal desing](https://www.usabilis.com/flat-design/)</br>
+  [SLIDESGO](https://slidesgo.com/)
    
