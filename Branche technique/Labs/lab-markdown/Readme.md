@@ -28,7 +28,7 @@ Ajouter d'Images :
 Si possible, incluez des images pour chaque  recette.
 Utilisez la syntaxe Markdown pour insérer des images 
 
-Vutiliser des Liens :
+utiliser des Liens :
 utiliser  les liens  dans le document dirigent vers des ressources appropriées liées à chaque recette
 
 ## Reference 
