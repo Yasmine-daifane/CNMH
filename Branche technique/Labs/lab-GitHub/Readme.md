@@ -2,19 +2,19 @@
 ## Work to be done 
 Livre des Recettes
 
-Deux collaborateurs, Alice et Bob, travaillent sur des recettes différentes dans un projet Git pour un "Livre des Recettes".
+Deux collaborateurs, hussein et yasmine, travaillent sur des recettes différentes dans un projet Git pour un "Livre des Recettes".
 ### Critere de validation  :
 - Branches et Modifications :
 
-Alice crée une branche pour une recette et y apporte des modifications (alice-recette).
-Bob fait de même pour une autre recette (bob-recette).
+Alice crée une branche pour une recette et y apporte des modifications (yasmine).
+Bob fait de même pour une autre recette (hussein).
 
 - Conflit Simulé :
 
-Bob essaie de fusionner sa branche dans la branche principale (main), mais rencontre un conflit avec les modifications d'Alice.
+hussein essaie de fusionner sa branche dans la branche principale (main), mais rencontre un conflit avec les modifications yasmine.
 - Résolution de Conflits :
 
-Alice et Bob se rencontrent pour résoudre le conflit :
+hussein et yasmine se rencontrent pour résoudre le conflit :
 Ils identifient les changements conflictuels dans leurs recettes respectives.
 Ils choisissent ensemble les modifications à conserver pour créer une version finale.
 - Résolution et Commit :
