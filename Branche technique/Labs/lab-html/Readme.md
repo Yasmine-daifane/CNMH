@@ -13,16 +13,21 @@ Ce guide d'étude est une ressource en ligne sur le Maroc, mettant en évidence 
 
 ## Contenu du Guide
 
-- [Géographie](#geographie)
-- [Culture](#culture)
-- [Histoire](#histoire)
-- [Sites Célèbres](#sites-celèbres)
+- [Lab html](#lab-html)
+  - [Travail à Faire :](#travail-à-faire-)
+- [Guide d'Étude sur le Maroc](#guide-détude-sur-le-maroc)
+  - [Contenu du Guide](#contenu-du-guide)
+  - [Géographie ](#géographie-)
+  - [Culture ](#culture-)
+  - [Histoire ](#histoire-)
+  - [Sites Célèbres ](#sites-célèbres-)
+    - [References](#references)
 
 ---
 
 ## Géographie <a name="geographie"></a>
 
-Le Maroc est situé en Afrique du Nord...
+Le Maroc est situé en Afrique du Nord
 
 [Aller à la section sur la Géographie](#geographie)
 
@@ -30,7 +35,7 @@ Le Maroc est situé en Afrique du Nord...
 
 ## Culture <a name="culture"></a>
 
-La culture marocaine est riche en...
+La culture marocaine est riche en
 
 [Aller à la section sur la Culture](#culture)
 
@@ -38,7 +43,7 @@ La culture marocaine est riche en...
 
 ## Histoire <a name="histoire"></a>
 
-L'histoire du Maroc remonte à...
+L'histoire du Maroc remonte 
 
 [Aller à la section sur l'Histoire](#histoire)
 
