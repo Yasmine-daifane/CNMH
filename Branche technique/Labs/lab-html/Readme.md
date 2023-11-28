@@ -9,7 +9,7 @@ L'objectif de ce travail  est de concevoir un guide d'étude en ligne sur le Mar
 ## critere de validation : 
 utilisation  de fonctionnalité Scroll to Text Fragment pour une navigation rapide vers des sections spécifiques du contenu
 ### Solution 
-[Guide d'etude sur le maroc ](https://github.com/Yasmine-daifane/CNMH/blob/master/Branche%20technique/Labs/lab-html/Guide-d'etude-sur-le-maroc.md)
+[Guide d'etude sur le maroc ](https://github.com/Yasmine-daifane/CNMH/blob/master/Branche%20technique/Labs/lab-html/Guide-d'etude-sur-le-maroc.html)
 
 
 ### References 
