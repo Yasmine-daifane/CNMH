@@ -28,6 +28,10 @@ Ajouter d'Images :
 Si possible, incluez des images pour chaque  recette.
 Utilisez la syntaxe Markdown pour insérer des images 
 
+utiliser des Liens :
+
+utiliser  les liens  dans le document dirigent vers des ressources appropriées liées à chaque recette
+
 ## Reference 
 [Documentation](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
