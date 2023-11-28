@@ -11,7 +11,7 @@ Le but de ce travail est de créer un livre de recettes en utilisant la syntaxe 
 
 ### Instructions :
 Création du Document :
-Utilisez des en-têtes  pour chaque section de recette.
+Utilisez des en-têtes <h1> <h2> pour chaque section de recette.
 
 Inclure les Recettes :
 
