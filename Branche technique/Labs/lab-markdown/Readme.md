@@ -9,7 +9,7 @@ Le but de ce travail est de créer un livre de recettes en utilisant la syntaxe 
 - Markdown All in One
   - yzhang.markdown-all-in-one
 
-### Instructions :
+### les criteres de validation :
 Création du Document :
 Utilisez des en-têtes `<h1> <h2>` pour chaque section de recette.
 
