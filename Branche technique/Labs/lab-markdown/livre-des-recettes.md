@@ -20,5 +20,9 @@
 ### Recette image :
 - Absolute URL:
 ![Omelette](https://img.freepik.com/free-photo/fried-eggs-top-view_141793-4429.jpg?w=900&t=st=1700235307~exp=1700235907~hmac=e6f33a953f40461523f866908b783e6a68a15a27c9168b35d98eafb74841ca64)
+
 - Relative URL: 
 <img src ="fried-eggs-top-view_141793-4429.jpg">
+
+### le liens de la source du recette
+- [Cuisine AZ - Omelette Simple](https://www.cuisineaz.com/recettes/omelette-simple-56045.aspx)
