@@ -1,6 +1,7 @@
 # lab-github <br>
 ## Work to be done 
 "Livre des Recettes"
+
 Deux collaborateurs, Alice et Bob, travaillent sur des recettes différentes dans un projet Git pour un "Livre des Recettes".
 ### Critere de validation  :
 - Branches et Modifications :
